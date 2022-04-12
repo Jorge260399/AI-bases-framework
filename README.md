@@ -4,7 +4,8 @@ In this repository, you will find the source code of all the scripts developed f
 
 ## Content
 - **1. Image Preprocessing**
-- In this file, you will find the procedures carried out for the preprocessing of the images, which were: Data Augmentation for unbalanced data, NLM Filter for Image Denoising and Rembg tool for background removal.
+
+In this file, you will find the procedures carried out for the preprocessing of the images, which were: Data Augmentation for unbalanced data, NLM Filter for Image Denoising and Rembg tool for background removal.
 
 - **2. Color Features**
 
